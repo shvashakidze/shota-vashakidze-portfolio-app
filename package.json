@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/shvashakidze/shota-vashakidze-portfolio-app"
+		"url": "https://github.com/freeCodeCamp/boilerplate-project-timestamp.git"
 	},
 	"keywords": [
 		"node",
